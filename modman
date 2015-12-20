@@ -1,0 +1,5 @@
+app/code/local/LCB/Stores                                  app/code/local/LCB/Stores
+app/design/adminhtml/default/default/layout/lcb_stores.xml app/design/adminhtml/default/default/layout/lcb_stores.xml
+app/design/frontend/base/default/layout/lcb_stores.xml     app/design/frontend/base/default/layout/lcb_stores.xml
+app/design/frontend/base/default/template/stores           app/design/frontend/base/default/template/stores
+app/etc/modules/LCB_Stores.xml                             app/etc/modules/LCB_Stores.xml
